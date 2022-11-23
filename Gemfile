@@ -30,6 +30,12 @@ gem "jbuilder"
 # Create Dummy Data
 gem 'faker', '~> 3.0'
 
+# Slimmer Views
+gem 'slim-rails', '~> 3.5', '>= 3.5.1'
+
+# CSS utility
+gem "tailwindcss-rails", "~> 2.0"
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
 
